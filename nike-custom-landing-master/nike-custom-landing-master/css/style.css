@@ -31,6 +31,10 @@ header ul.navigation {
   box-sizing: border-box;
 }
 
+header ul.navigation :hover {
+transform: scale(1.2);
+}
+
 header ul.seperate {
   display: flex;
   justify-content: space-between;
