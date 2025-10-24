@@ -33,6 +33,7 @@ header ul.navigation {
 
 header ul.navigation :hover {
 transform: scale(1.2);
+font-weight: bold;
 transition: transform 1.1s ease-in-out;
 }
 
