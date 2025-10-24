@@ -33,7 +33,7 @@ header ul.navigation {
 
 header ul.navigation :hover {
 transform: scale(1.2);
-transition: transform 0.7s ease-in-out;
+transition: transform 0.9s ease-in-out;
 }
 
 header ul.seperate {
