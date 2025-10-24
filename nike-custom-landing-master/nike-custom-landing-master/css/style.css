@@ -29,12 +29,11 @@ header .logo img {
 header ul.navigation {
   padding-left: 90px;
   box-sizing: border-box;
-  transition: transform 0.1s ease-in-out;
 }
 
 header ul.navigation :hover {
 transform: scale(1.2);
-transition: transform 0.5s ease-in-out;
+transition: transform 0.7s ease-in-out;
 }
 
 header ul.seperate {
